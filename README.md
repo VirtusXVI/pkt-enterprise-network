@@ -2,7 +2,7 @@
 
 ## File
 
-    campus-topology.pkt – Cisco Packet Tracer project file
+    enterprise-network.pkt – Cisco Packet Tracer project file
 
 ## Topology Overview
 
