@@ -14,7 +14,7 @@
 
     (TODO) Inter-VLAN Routing enabled on Core
 
-    (TODO) Trunk links between switches
+    Trunk links between switches
 
     STP Root and Secondary Root set on Core switches
 
@@ -24,7 +24,7 @@
 
     VTP (Server + Client mode)
 
-    STP (PVST+)
+    STP
 
     Trunking (802.1Q)
 
